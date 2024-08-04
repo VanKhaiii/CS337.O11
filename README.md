@@ -31,7 +31,7 @@
 ### Giới thiệu đồ án: 
 Âm nhạc truyền thống Việt Nam là một kho tàng phong phú và đa dạng, phản ánh văn hóa, lịch sử và tâm hồn của dân tộc qua nhiều thế kỷ. Nó bao gồm nhiều thể loại như nhã nhạc cung đình Huế, ca trù, chèo, tuồng, quan họ, và dân ca các dân tộc thiểu số. Mỗi loại hình âm nhạc mang một nét đặc trưng riêng, từ giai điệu, nhịp điệu đến cách thể hiện, góp phần tạo nên bản sắc văn hóa độc đáo của từng vùng miền. Phân loại âm nhạc truyền thống Việt Nam không chỉ giúp bảo tồn di sản văn hóa, mà còn mở ra cơ hội nghiên cứu và khám phá những giá trị nghệ thuật sâu sắc của dân tộc.
 
-<img src = "https://github.com/VanKhaiii/CS106.N21/blob/main/Images/An-example-solution-for-EVRP.ppm">
+<img src = "https://github.com/VanKhaiii/CS337.O11/blob/main/Images/image.webp">
 
 <!-- Footer -->
 <p align='center'>Copyright © 2022 - Trương Văn Khải</p>
